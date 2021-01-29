@@ -2,7 +2,7 @@
 
 ## **Part 0 - Introduction**
 
-This workshop is divided in X parts.
+This workshop is divided in 2 parts.
 Each one of them will teach you something about smart contract development using the Solidity programming language.
 
 The smart contract you will write can be deployed on the Ethereum blockchain.
@@ -17,7 +17,7 @@ A part has the following structure :
 
 **SubPart 2 :**
 
-Intersting text.
+Amazing text.
 
 ``` js
 function amazingCode() {
@@ -70,9 +70,9 @@ contract Enroll {
 
 - ### **Tasks & Achievements**
 
-> **Task 1** : Set the soldier address of the contract to your address.
+> **Task 1** : Set the `*_soldier*` variable value to your ethereum address.
 > This has to be done only once, during the contract deployment.
-> Hopefully, the constructor is only called whenever the contract is deployed !
+> Hopefully, the constructor is only called when the contract is deployed !
 
 > **Task 2** : In order to ensure that the clause has been properly reviewed you must call the *horribleDeathClause* function of the Enroll Contract.
 
@@ -81,7 +81,7 @@ contract Enroll {
 > - To do so, it is highly recommended to use the Remix Online Editor available [here](https://remix.ethereum.org/).
 >
 > - First of all, delete all files present by default.
-> Then create an Enroll.sol file and paste the content from the *Enroll.sol* file.
+> Then create an *Enroll.sol* file and paste the content from the *Enroll.sol* file of this repository.
 >
 > - In the ***Solidity Compiler*** tab, make sure that the compiler version is set to **0.7.4**. Then, enable the **auto-compile** option.
 >
@@ -92,3 +92,13 @@ contract Enroll {
 > - You can call a function from your contract in the **Deployed Contracts** section on the bottom left of the editor.
 
 > **:partying_face:** : You've learned to create, deploy and interact with a contract. Well played !
+
+## **Part 2 - Join the regiment**
+
+- ### **Welcome to R-609**
+
+Okay soldier, now you are in the Army.
+
+DO TEN PUSH UPS RIGHT NOW !
+
+Wow that was quick ! You should meet the other members of the regiment R-609
