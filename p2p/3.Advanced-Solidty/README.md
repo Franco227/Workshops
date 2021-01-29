@@ -31,7 +31,7 @@ function amazingCode() {
 
 **SubPart 3 :**
 
-> **:partying_face:** : What you have learned int his part.
+> **:partying_face:** : What you have learned in this part.
 
 ## **Part 1 - The foundations of Smart Contract development**
 
