@@ -76,17 +76,19 @@ contract Enroll {
 
 > **Task 2** : In order to ensure that the clause has been properly reviewed you must call the *horribleDeathClause* function of the Enroll Contract.
 
-> **Tips & Tricks** : To do so, it is highly recommended to use the Remix Online Editor available [here](https://remix.ethereum.org/).
+> **Tips & Tricks** :
 >
-> First of all, delete all files present by default.
+> - To do so, it is highly recommended to use the Remix Online Editor available [here](https://remix.ethereum.org/).
+>
+> - First of all, delete all files present by default.
 > Then create an Enroll.sol file and paste the content from the *Enroll.sol* file.
 >
-> In the ***Solidity Compiler*** tab, make sure that the compiler version is set to **0.7.4**. Then, enable the **auto-compile** option.
+> - In the ***Solidity Compiler*** tab, make sure that the compiler version is set to **0.7.4**. Then, enable the **auto-compile** option.
 >
-> In the ***Deploy and run transactions*** tab, make sure that the environment is set to **JavaScript VM** and that the contract option is set to **Enroll**.
+> - In the ***Deploy and run transactions*** tab, make sure that the environment is set to **JavaScript VM** and that the contract option is set to **Enroll**.
 >
-> Once the setup is done and that you have filled up the missing part of the contract, you can deploy your smart contract. For the moment, this will be done in a fake Ethereum network - The JavaScript VM.
+> - Once the setup is done and that you have filled up the missing part of the contract, you can deploy your smart contract. For the moment, this will be done in a fake Ethereum network - The JavaScript VM.
 >
-> You can call a function from your contract in the **Deployed Contracts** section on the bottom left of the editor.
+> - You can call a function from your contract in the **Deployed Contracts** section on the bottom left of the editor.
 
 > **:partying_face:** : You've learned to create, deploy and interact with a contract. Well played !
