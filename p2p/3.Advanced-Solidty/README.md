@@ -17,11 +17,15 @@ A part has the following structure :
 
 **SubPart 2 :**
 
+Intersting text.
+
 ``` js
 function amazingCode() {
 
 }
 ```
+
+**SubPart 3 :**
 
 > **Task 1** : Blablabla Instructions Blablabla
 
@@ -29,13 +33,11 @@ function amazingCode() {
 
 > **Tips & tricks** : To help you :wink:
 
-**SubPart 3 :**
-
 > **:partying_face:** : What you have learned in this part.
 
-## **Part 1 - The foundations of Smart Contract development**
+## **Part 1 - Hey soldier ! We need you !**
 
-### **Welcome to the Army**
+- ### **Welcome to the Army**
 
 Hello soldier ! Welcome to the United Earth Corporation - The UBC - a private organization created to defend earth after the first alien invasion that occured January 3rd, 2009.
 
@@ -43,7 +45,7 @@ To join the UBC, you must sign their contract.
 
 Including the following clause : **"we are not responsible for your capture and if you are eaten by an alien"**.
 
-### **Enroll in the regiment**
+- ### **Enroll**
 
 So let's do it ! In the `sources` folder, you will find a file named *Enroll.sol*.
 Once openned, it should contain the following :
@@ -66,6 +68,8 @@ contract Enroll {
 }
 ```
 
+- ### **Tasks & Achievements**
+
 > **Task 1** : Set the soldier address of the contract to your address.
 > This has to be done only once, during the contract deployment.
 > Hopefully, the constructor is only called whenever the contract is deployed !
@@ -85,9 +89,4 @@ contract Enroll {
 >
 > You can call a function from your contract in the **Deployed Contracts** section on the bottom left of the editor.
 
-
 > **:partying_face:** : You've learned to create, deploy and interact with a contract. Well played !
-
-### **Join your squad**
-
-### **Let's go !**
