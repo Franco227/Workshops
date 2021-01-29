@@ -70,7 +70,7 @@ contract Enroll {
 
 - ### **Tasks & Achievements**
 
-> **Task 1** : Set the `*_soldier*` variable value to your ethereum address.
+> **Task 1** : Set the *`_soldier`* variable value to your ethereum address.
 > This has to be done only once, during the contract deployment.
 > Hopefully, the constructor is only called when the contract is deployed !
 
