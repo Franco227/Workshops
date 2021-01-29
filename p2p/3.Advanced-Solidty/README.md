@@ -31,8 +31,7 @@ function amazingCode() {
 
 **SubPart 3 :**
 
-> [!IMPORTANT]
-> What you have learned int his part.
+> **:partying_face:** : What you have learned int his part.
 
 ## **Part 1 - The foundations of Smart Contract development**
 
@@ -86,8 +85,8 @@ contract Enroll {
 >
 > You can call a function from your contract in the **Deployed Contracts** section on the bottom left of the editor.
 
-> [!IMPORTANT]
-> You've learned to create, deploy and interact with a contract. Well played !
+
+> **:partying_face:** : You've learned to create, deploy and interact with a contract. Well played !
 
 ### **Join your squad**
 
